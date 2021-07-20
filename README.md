@@ -1,4 +1,4 @@
-<center  style="text-align:center"><img src="https://cdn.imasse.com/img/logo.png" width="400" ></center>
+![Imasse](https://cdn.imasse.com/img/logo.png)
 ---
 
 Imasse Change Browser is a web browser developed in React Native with the search engine www.imasse.com as the default search engine. The code for the Imasse Change Browser has been adapted from WeixuanZ's Wink Browser which can be found at https://github.com/WeixuanZ/wink/
