@@ -29,4 +29,4 @@ https://www.imasse.com/privacy
 
 https://www.imasse.com/terms
 
-© IMASSE, LLC
+IMASSE, LLC &trade;
