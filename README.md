@@ -20,7 +20,7 @@ We display ads like any other search engine, but we use this money differently. 
 We don't track anything you do ever! We don't collect any personal information about you so your searches are always private.
 
 ## ⇨ Research Easier and Faster
-Filter results based on credibility and easily create citations for any results just by clicking on the bookmark icon in the bottom right.
+Filter results based on credibility and easily create MLA citations for any results just by clicking on the bookmark icon in the bottom right. 
 
 ##
 By using the Imasse change browser mobile app you agree to the installation of this app, and you agree to the End User License Agreement and the Privacy Policy which can be found below.
